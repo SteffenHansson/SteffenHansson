@@ -1,16 +1,13 @@
-## Hi there 👋
+#Hi visitor!#
 
-<!--
-**SteffenHansson/SteffenHansson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##My name is Steffen, and I am just starting my career as a programmer.##
 
-Here are some ideas to get you started:
+```c#
+/*
+Follow along here, and I will upload my projects from time to time
+One day
+It will be bustling portfolio
+*/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Languages and Tools:###
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
