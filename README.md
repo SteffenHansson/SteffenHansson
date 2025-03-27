@@ -1,6 +1,6 @@
 ### Hi visitor! ###            
 <br>
-<h7>My name is Steffen, and I am just starting my career as a programmer.</h7>
+<h5>My name is Steffen, and I am just starting my career as a programmer.</h5>
 ```c#
 Follow along here, and I will upload my projects from time to time
 
