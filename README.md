@@ -7,7 +7,7 @@
   </ul>
 </div></blockquote>
 <br>
-<p>I will upload my projects from time to time, so follow along here for my progress</p>
+<h3>I will upload my projects from time to time, so follow along here for my progress</h3>
 <br>
 <br>
 <br>
