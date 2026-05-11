@@ -1,13 +1,12 @@
 <br>
-<blockquote><div id="toc">
+<div id="toc">
   <ul style="list-style: none">
     <summary>
-      &nbsp;&nbsp;<h1>Hi visitor</h1>
+      &nbsp;&nbsp;<h1><b>Hi visitor</b></h1>
     </summary>
   </ul>
-</div></blockquote>
-<br>
-<h3><sup>I will upload my projects from time to time, so follow along here for my progress</sup></h4>
+</div>
+<h4><sup>I will upload my projects from time to time, so follow along here for my progress</sup></h4>
 <br>
 <br>
 <br>
