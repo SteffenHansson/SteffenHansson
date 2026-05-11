@@ -9,7 +9,6 @@
 <h4><sup>I will upload my projects from time to time, so follow along here for my progress</sup></h4>
 <br>
 <br>
-<br>
 
 <blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><sup>•</sup></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote>
 
@@ -32,7 +31,8 @@
 <blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><sup>•</sup></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote>
 
 <br>
+<br>&nbsp;
 <br>
-<br>
+
 <h4><sup>Current languages that I work with:</sup></h4>
-<p></p><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a> &nbsp; <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML" width="40" height="40"/></a> &nbsp; <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="40" height="40"/></a></p>
+<body><p id="p1" style="display:inline"><a href="https://www.w3schools.com/cs/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a></p> <p id="p2" style="display:inline"> <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML" width="40" height="40"/> </a> </p> <p id="p1" style="display:inline"> <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="40" height="40"/></a></p></body>
